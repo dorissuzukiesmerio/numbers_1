@@ -10,7 +10,7 @@ Reading the book of Numbers with Data Analysis eyes, I've realized that there is
 
 Can you grasp the depth of this statement ? 
 
-If you had two datasets, like an accounting statement for each person: one representing all your good deeds in one column, and bad deeds with its penaltu(debt) in another.
+If you had two datasets, like an accounting statement for each person: one representing all your good deeds in one column, and bad deeds with its penalty(debt) in another.
 
 And then Jesus's dataset , representing all his rigteousness (he only did good, fulfilled the law perfectly). 
 
